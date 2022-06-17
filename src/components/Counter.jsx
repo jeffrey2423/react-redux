@@ -13,3 +13,4 @@ export default function Counter() {
 }
 
 // SIEMPRE SE DEBERIA USAR .jsx POR CONVENCION, no pasa nada si se usa .js
+// LOS COMPONENETES DE CLASE ESTAN MURIENDO, USAR FUNCIONALES
